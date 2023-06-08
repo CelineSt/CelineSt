@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @CelineSt
-- 👀 I’m interested in supply chain management, operations management, artifical intelligence 
+- 👀 I’m interested in the implementation of ERP Systems and artifical intelligence in supply chain management and operations management.
+- 🏃 Besides that I am really passionate about sports, especially triathlon. 
 - 🌱 I’m currently learning the basics, i just in the beginning of learning some programming langruages such as Python, Ruby, C, Java and JavaScript
 - 📫 You can reach me via e-mail: stockrahmceline@gmail.com or on LinkedIn: https://www.linkedin.com/in/celine-stockrahm-0a647623b/
 
