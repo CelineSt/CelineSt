@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CelineSt
 - 👀 I’m interested in the implementation of ERP Systems and artifical intelligence in supply chain management and operations management.
-- 🏃 Besides that I am really passionate about sports, especially triathlon. 
-- 🌱 I’m currently learning the basics. I am just in the beginning of learning some programming languages (espacially Python, C, Java, Ruby)
+- 🏃 Besides that I am passionate about sports, especially triathlon. 
+- 🌱 I’m currently learning some basics (Python(Numpy, Pandas, Seaborn...), C, some JavaSrcipt, 
 - 📫 You can reach me via e-mail: stockrahmceline@gmail.com or on LinkedIn: https://www.linkedin.com/in/celine-stockrahm-0a647623b/
 
 <!---
