@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @CelineSt
-- 👩‍🎓 I'm a student pursuing a degree in Business Engineering with a focus on internal logistics and business informatics.
-- 👀 I’m interested in the application of data science and the implementation of artifical intelligence in supply chain management and operations management.
-- 🌱 Currently, I am diving into the world of programming.
-- 🐍📊 Python (Pandas, Matplotlib) | 🗃️ SQL | 💎 Ruby | 🌐 C 
-- 🤖 Currently learning microprocessor programming with Arduino (C++)
-- 🏃 Besides that, I am passionate about sports, especially triathlon. (I would love to work on a sports-related project in the future.)
+- 👩‍🎓 Recent graduate in Business Engineering, focused on digitalization in production & business informatics.
+- 👀 Interested in practical AI applications, especially in industrial and operational context
+- 🌱 Currently gaining hands-on experience with AI use cases in production, focusing on image recognition
+- 🐍📊 Programming languages: Python (PyTorch, Scikit-learn), SQL, Ruby, C
+- 🛠️ Tools: Azure ML Studio, Microsoft Azure, CVAT, Git
 - 📫 You can reach me via e-mail: stockrahmceline@gmail.com or on LinkedIn: https://www.linkedin.com/in/celine-stockrahm-0a647623b/
 
 <!---
